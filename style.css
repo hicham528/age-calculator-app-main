@@ -30,7 +30,7 @@ body{
     display: flex;
     flex-direction: column;
     background-color: var(--White);
-    border-radius: 0px 0px 40px 0px;
+    border-radius: 0px 0px 100px 0px;
 }
 .header{
     display: flex;
